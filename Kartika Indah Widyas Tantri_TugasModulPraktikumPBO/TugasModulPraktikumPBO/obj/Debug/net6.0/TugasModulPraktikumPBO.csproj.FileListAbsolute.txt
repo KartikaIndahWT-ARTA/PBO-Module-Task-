@@ -1,0 +1,30 @@
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\bin\Debug\net6.0\TugasModulPraktikumPBO.exe
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\bin\Debug\net6.0\TugasModulPraktikumPBO.deps.json
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\bin\Debug\net6.0\TugasModulPraktikumPBO.runtimeconfig.json
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\bin\Debug\net6.0\TugasModulPraktikumPBO.dll
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\bin\Debug\net6.0\TugasModulPraktikumPBO.pdb
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.csproj.AssemblyReference.cache
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.GeneratedMSBuildEditorConfig.editorconfig
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.AssemblyInfoInputs.cache
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.AssemblyInfo.cs
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.csproj.CoreCompileInputs.cache
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.dll
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\refint\TugasModulPraktikumPBO.dll
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.pdb
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.genruntimeconfig.cache
+D:\COLLEGE 2ND SEMESTER\PBO\Tugas_2_TM_PBO\TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\ref\TugasModulPraktikumPBO.dll
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\bin\Debug\net6.0\TugasModulPraktikumPBO.exe
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\bin\Debug\net6.0\TugasModulPraktikumPBO.deps.json
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\bin\Debug\net6.0\TugasModulPraktikumPBO.runtimeconfig.json
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\bin\Debug\net6.0\TugasModulPraktikumPBO.dll
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\bin\Debug\net6.0\TugasModulPraktikumPBO.pdb
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.csproj.AssemblyReference.cache
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.GeneratedMSBuildEditorConfig.editorconfig
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.AssemblyInfoInputs.cache
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.AssemblyInfo.cs
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.csproj.CoreCompileInputs.cache
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.dll
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\refint\TugasModulPraktikumPBO.dll
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.pdb
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\TugasModulPraktikumPBO.genruntimeconfig.cache
+D:\COLLEGE 2ND SEMESTER\PR - PBO\Kartika Indah Widyas Tantri_TugasModulPraktikumPBO\TugasModulPraktikumPBO\obj\Debug\net6.0\ref\TugasModulPraktikumPBO.dll
